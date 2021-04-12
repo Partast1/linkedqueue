@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618224519 source:c:\codeblocks\linkedqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+
